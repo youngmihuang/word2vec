@@ -17,4 +17,5 @@
 - sklearn
 - matplotlib
 - numpy
+- hanziconv
 - 須下載可呈現中文字的[支援文件](https://github.com/sebastianbergmann/phpunit-documentation/blob/master/build/fonts/wqy-microhei/wqy-microhei.ttc)
