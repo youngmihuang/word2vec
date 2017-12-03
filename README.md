@@ -1,9 +1,9 @@
 
 # word2vec
-# 完整版
+## 完整說明連結
 * Medium： [自然語言處理入門- Word2vec小實作](https://medium.com/pyladies-taiwan/%E8%87%AA%E7%84%B6%E8%AA%9E%E8%A8%80%E8%99%95%E7%90%86%E5%85%A5%E9%96%80-word2vec%E5%B0%8F%E5%AF%A6%E4%BD%9C-f8832d9677c8)
 
-# 實作流程
+## 實作流程
 1. 在 terminal 進行套件安裝以及下載資料格式檔案轉換 (若已有現成文本可略過) 
 2. 在 jupyter notebook 透過 jieba套件斷詞，再經由 word2vec 萃取文章特徵，轉換成以向量空間表示的詞向量
 3. 視覺化呈現相近詞向量之結果
